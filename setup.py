@@ -3,11 +3,11 @@ import setuptools
 with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()
 
-gh = 'https://github.com/endercheif/testit'
+gh = 'https://github.com/endercheif/test-it'
 
 setuptools.setup(
     name='TestIt',
-    version='0.0.1',
+    version='0.1.0',
     author='Reet Singh',
     author_email='reet22singh+test.it@gmail.com',
     description='A simple test framework',
