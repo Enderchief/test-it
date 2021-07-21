@@ -1,0 +1,3 @@
+[console_scripts]
+testit = testit.__main__:main
+

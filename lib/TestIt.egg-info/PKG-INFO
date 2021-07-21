@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: TestIt
+Version: 0.0.1
+Summary: A simple test framework
+Home-page: https://github.com/endercheif/testit
+Author: Reet Singh
+Author-email: reet22singh+test.it@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/endercheif/testit/issues
+Project-URL: Documentation, https://github.com/endercheif/testit
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# test-it
+

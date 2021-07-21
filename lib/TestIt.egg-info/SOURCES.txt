@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.py
+lib/TestIt.egg-info/PKG-INFO
+lib/TestIt.egg-info/SOURCES.txt
+lib/TestIt.egg-info/dependency_links.txt
+lib/TestIt.egg-info/entry_points.txt
+lib/TestIt.egg-info/top_level.txt
+lib/testit/__init__.py
+lib/testit/__main__.py
+lib/testit/main.py
